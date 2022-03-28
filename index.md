@@ -2,5 +2,4 @@
 Links to Projects
 -- 
 
-[Time Series Decomp (HTML)]
-[Time Series Decomp (ijynb)]
+[Time Series](/timeseries/index.md)
