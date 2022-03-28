@@ -5,4 +5,4 @@ Hello
 Welcome
 [Time Series Content](/timeseries/index.md) 
 
-![Picture]
+![Picture](/IMG_8209.jpg)
